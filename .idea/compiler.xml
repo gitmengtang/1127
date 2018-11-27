@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mm_common" />
+        <module name="mm_manager_mapper" />
+        <module name="mm_manager_pojo" />
+        <module name="mm_manager_service" />
+        <module name="mm_manager_web" />
+        <module name="mm_redis" />
+        <module name="mm_rest" />
+        <module name="mm_search" />
+        <module name="mm_sso" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mm_common" target="1.8" />
+      <module name="mm_manager" target="1.8" />
+      <module name="mm_manager_mapper" target="1.8" />
+      <module name="mm_manager_pojo" target="1.8" />
+      <module name="mm_manager_service" target="1.8" />
+      <module name="mm_manager_web" target="1.8" />
+      <module name="mm_parent" target="1.8" />
+      <module name="mm_redis" target="1.8" />
+      <module name="mm_rest" target="1.8" />
+      <module name="mm_search" target="1.8" />
+      <module name="mm_sso" target="1.8" />
+      <module name="mmservice" target="1.7" />
+      <module name="mmweb" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

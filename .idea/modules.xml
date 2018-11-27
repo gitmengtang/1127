@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1127.iml" filepath="$PROJECT_DIR$/.idea/1127.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm_common/mm_common.iml" filepath="$PROJECT_DIR$/mm_common/mm_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm_manager/mm_manager.iml" filepath="$PROJECT_DIR$/mm_manager/mm_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm_manager/mm_manager_mapper/mm_manager_mapper.iml" filepath="$PROJECT_DIR$/mm_manager/mm_manager_mapper/mm_manager_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm_manager/mm_manager_pojo/mm_manager_pojo.iml" filepath="$PROJECT_DIR$/mm_manager/mm_manager_pojo/mm_manager_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm_manager/mm_manager_service/mm_manager_service.iml" filepath="$PROJECT_DIR$/mm_manager/mm_manager_service/mm_manager_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm_manager/mm_manager_web/mm_manager_web.iml" filepath="$PROJECT_DIR$/mm_manager/mm_manager_web/mm_manager_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm_parent/mm_parent.iml" filepath="$PROJECT_DIR$/mm_parent/mm_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm_redis/mm_redis.iml" filepath="$PROJECT_DIR$/mm_redis/mm_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm_rest/mm_rest.iml" filepath="$PROJECT_DIR$/mm_rest/mm_rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm_search/mm_search.iml" filepath="$PROJECT_DIR$/mm_search/mm_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm_sso/mm_sso.iml" filepath="$PROJECT_DIR$/mm_sso/mm_sso.iml" />
+    </modules>
+  </component>
+</project>
